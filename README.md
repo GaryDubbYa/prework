@@ -13,6 +13,7 @@ We look forward to seeing you all in class!
 4. [Install Chrome](https://www.google.com/intl/en/chrome/browser/)
 5. [Install Homebrew](http://brew.sh/)
 6. [Sign up for GitHub](https://github.com/)
+7. [Sign up for CodePen](https://codepen.io/)
 
 ## Back to Basics (Optional)
 
